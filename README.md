@@ -42,9 +42,3 @@ Example:
 - `pkg/calculator/`: Mathematical operations
 - `pkg/handler/`: Input and calculation handling
 - `pkg/utils/`: Utility functions
-
-## Contributing
-Pull requests are welcome.
-
-## License
-MIT License
